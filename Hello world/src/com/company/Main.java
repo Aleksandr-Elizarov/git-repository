@@ -10,6 +10,6 @@ public class Main {
         String Hello = "Hello";
         String world = "world!";
         System.out.println(Hello + " "+ world + "!");
-        System.out.println(!);
+        System.out.println("!");
     }
 }
