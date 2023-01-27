@@ -1,5 +1,8 @@
 package com.company;
 
+/*
+Simple HelloWorld example
+ */
 public class Main {
 
     public static void main(String[] args) {
