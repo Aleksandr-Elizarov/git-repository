@@ -1,0 +1,13 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://thymeleaf.org" location="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/thymeleaf-spring5-3.0.15.RELEASE.jar" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/334543e7_spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/5fcb85ff_spring-jdbc.xsd" />
+    <resource url="http://www.thymeleaf.org/extras/dialect" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/5b21c2be_thymeleaf-extras-dialect-3.0.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.2/extResources/93b79a08_spring-tool-4.3.xsd" />
+    <ignored-resource url="http://www.springframework.org/schema/p" />
+    <ignored-resource url="http://www.wЗ.org/2001/XMLSchema-instance" />
+  </component>
+</application>

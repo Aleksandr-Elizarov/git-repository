@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="res" type="AUTO_DETECTED" />
+      <mapping pattern="OldApplicationContext.xml" type="AUTO_DETECTED" />
+      <mapping pattern="GsonTester" type="JAVA" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="company" type="PLAIN_TEXT" />
+      <mapping ext=" xml" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>
